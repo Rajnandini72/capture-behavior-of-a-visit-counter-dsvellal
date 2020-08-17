@@ -10,4 +10,4 @@ Scenario: Compute parking slots to reserve for visiting specialists
 
   Given: 2-3 fix days of week when specialist visits
   When: Some x specialist going to visit, make sure X empty parking slots are available
-  Then: To reserve X slots Print "No parking available or shift parking arena to other place"
+  Then: To reserve X slots Print "No parking available or shift parking arena to other place".
